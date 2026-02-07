@@ -8,7 +8,7 @@
 <h1 align="center">Hi, I'm Toqeer!</h1>
 
 <p align="center">
-  <em>Digital Marketing Strategist | AI Automation Engineer | SEO Expert | Prompt Engineer</em><br>
+  <em>Developer | AI Engineer | SEO | Content Creator</em><br>
   <em>Founder of <a href="https://www.linkedin.com/company/ai-seo-notes">AI SEO Notes</a> | Software Development Hub</em>
 </p>
 
@@ -16,7 +16,7 @@
 
 <!-- Animated Avatar Placeholder -->
 <p align="center">
-  <img src="https://your-avatar-animation-url.com/toqeer.gif" width="180px">
+  <img src="https://your-avatar-animation-url.com/toqeer.gif" width="130px">
 </p>
 
 ---
